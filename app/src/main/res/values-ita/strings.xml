@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pais_text">Italia</string>
+    <string name="comida_text">Pasta</string>
+    <string name="bandeira_description">Italia</string>
+    <string name="comida_description">pasta</string>
+</resources>

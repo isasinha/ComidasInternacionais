@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pais_textsize">24sp</dimen>
+    <dimen name="comida_largura">250dp</dimen>
+    <dimen name="bandeira_largura">250dp</dimen>
+    <dimen name="comida_textsize">24sp</dimen>
+</resources>

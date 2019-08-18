@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/comidasLinearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/paisTexto"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/pais_text"
+        android:textSize="@dimen/pais_textsize" />
+
+    <ImageView
+        android:id="@+id/bandeiraImage"
+        android:layout_width="@dimen/bandeira_largura"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight="2"
+        android:contentDescription="@string/bandeira_description"
+        android:gravity="center"
+        app:srcCompat="@drawable/bandeira" />
+
+    <ImageView
+        android:id="@+id/comidaImage"
+        android:layout_width="@dimen/comida_largura"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight="2"
+        android:contentDescription="@string/comida_description"
+        android:gravity="center"
+        app:srcCompat="@drawable/comida" />
+
+    <TextView
+        android:id="@+id/comidaTexto"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/comida_text"
+        android:textSize="@dimen/comida_textsize" />
+
+</LinearLayout>

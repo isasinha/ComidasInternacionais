@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pais_text">Deutschland</string>
+    <string name="app_name">Comidas Internacionais</string>
+    <string name="comida_text">Wurst</string>
+    <string name="bandeira_description">Deutschland</string>
+    <string name="comida_description">Wurst</string>
+</resources>

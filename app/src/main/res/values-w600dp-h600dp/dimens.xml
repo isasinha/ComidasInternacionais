@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bandeira_largura">300dp</dimen>
+    <dimen name="comida_largura">300</dimen>
+    <dimen name="pais_textsize">60sp</dimen>
+    <dimen name="comida_textsize">60sp</dimen>
+</resources>

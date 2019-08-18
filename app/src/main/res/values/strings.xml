@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Comidas Internacionais</string>
+    <string name="pais_text">USA</string>
+    <string name="comida_text">Hamburguer</string>
+    <string name="bandeira_description">United States of America</string>
+    <string name="comida_description">hamburguer</string>
+</resources>

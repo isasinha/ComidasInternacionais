@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pais_text">المملكة</string>
+    <string name="comida_text">صفيحة</string>
+    <string name="bandeira_description">المملكة</string>
+    <string name="comida_description">صفيحة</string>
+</resources>

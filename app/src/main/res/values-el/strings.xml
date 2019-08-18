@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pais_text">Ελλάδα</string>
+    <string name="comida_text">κεμπάπ</string>
+    <string name="bandeira_imagem">\@drawable/grecia</string>
+    <string name="bandeira_description">Ελλάδα</string>
+    <string name="comida_description">κεμπάπ</string>
+</resources>
